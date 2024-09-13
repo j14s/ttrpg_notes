@@ -1,4 +1,4 @@
-# At the Cross Roads with Strahd (Session 11)
+# At the Cross Roads with Strahd (Session 11?)
 
 ## Pre
 
@@ -27,6 +27,11 @@ We are at the xroads. Carriage arrives and out comes Strahd.
     - Others from the camp come to see us
   - Game of stories:
     - Put in item of worth
+    - Iggy killed her pig
+    - Harry: Jesus story
+    - Woj: Honey Honey Honey
+    - Zam's mom smashed her jewelry
+    - Gami's story leads to him transforming again into a snake.
 
 ## People
 
