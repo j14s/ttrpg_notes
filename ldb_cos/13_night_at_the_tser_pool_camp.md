@@ -24,7 +24,7 @@ Everyone from the party were invited by Vistaani, played a game by the campfire.
   - Gaami feels odd after the reading and shares his thoughts with Zenfira. And so does she, she shares her day was weird as f**k.
   - They get into a giant bear hug with Wojtek and wind down the night by rolling a joint.
 
-### Shenaginans in the Woods 
+### Shenanigans in the Woods 
 - Perimeter check by Harry & meets Undead
   - Harry wanted to do a perimeter check, goes into the woods nearby after hearing some noises.
   - After a bit of investigation around, he notices himself infront of a hoard of undead folk.
@@ -52,7 +52,7 @@ Everyone from the party were invited by Vistaani, played a game by the campfire.
   - Gaami worries that Cinter was under a spell as he killed someone last night
   - Cinter assures that he is aware of his act and he was not under any influence
   - Cinter did not want to talk about it yet, he is peace with it though.
-- Iggy meets Petra
+- Iggy meets Pedro
   - She is happy to meet a family member, they share the moments from past with their granddad
   - Iggy asks if there is something for her to shapes her life
   - Petro gives a box of tarot cards, to see if she has the power to see the future,but alas Iggy is not yet there
@@ -73,7 +73,10 @@ Everyone from the party were invited by Vistaani, played a game by the campfire.
   - As Iggy insists, everyone gets into the wagon to see what they like find. Wojtek asks for armor, and so does Cinter in exchange of his old one.
   - Gaami asks for something to draw attention to wolves/werewolves and way to talk to animals and birds.
   - Zenfira also shares her dream to Gaami, and they decide to talk about it on their way
+  - Wojtek comes in the cart, asks why Pedro does not have horns, if he is family of Iggy
   - In the end, people try to buy some small weapons, armors and a coffee maker from him
+  - While leaving the caravan, Pedro stops Iggy pulls her closer and asks indeed the question why she has horns?
+  - She says she thinks she is cursed, and Pedro says vistaani curses comes with a cost. He also says he will inquire about her mom and grandmom (Violet)
   
 ### Next stop, Vallaki!
 
