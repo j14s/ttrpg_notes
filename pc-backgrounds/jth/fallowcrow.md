@@ -1,5 +1,7 @@
 # Fallow Crow
 
+![](images/human_warlock_undying.png)
+
 ## Backstory
 
 &emsp;Silvan Crow was an assistant to a powerful, but introverted, wizard. He originally came to the Wizard as an apprentice, but soon it was obvious that despite being quite smart and very driven, Silvan had no magical talent.
