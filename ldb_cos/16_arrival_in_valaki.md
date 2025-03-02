@@ -21,5 +21,5 @@
       - children tell me of a sick child
     - Rebuffed by the Mistress
       - Center "pushes" back as a Cleric of Lathander
-      - Talken inside to see Millie
+      - Taken inside to see Millie
         - unconcious 19yr young man/boy
