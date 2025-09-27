@@ -79,4 +79,8 @@
     - 2 weeks
     - intros
       - Tension between Aralette and <pete>
-      -
+    - Ship is attacked, we awake on the show of an island with a keep.
+  - Dead all around. They appear to have attacked each other.
+  - Within the jail of the keep we find a woman(human, but red skinned)
+  - Schism on whether we let her out or steal her small boat
+  -
