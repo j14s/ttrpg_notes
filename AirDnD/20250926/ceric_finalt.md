@@ -9,9 +9,9 @@
 
 ## HP and AC
 
-| HP | AC |
-|----|----|
-| 12(10+2) | 16(chainmail) |
+| HP | AC | Init | DR |
+|----|----|------|----|
+| 12(10+2) | 16(chainmail) | 9 (5+4) | 2(3 shld) |
 
 ## Stats
 
@@ -44,16 +44,13 @@
 
 ## Equipment
 
-| Item | Source | Page | Rarity | Type | Attunement | Damage | Properties | Mastery | Text |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
-| Warhammer | PHB'24 | 215 | none | weapon, martial weapon, melee weapon | 1d8 Bludgeoning | Versatile (1d10) | Mastery: Push	5 lb. | |  Versatile. A Versatile weapon can be used with one or two hands. A damage value in parentheses appears with the property. The weapon deals that damage when used with two hands to make a melee attack.|
-| Chain Mail | PHB'24 | 219 | none | heavy armor | AC 16 | | | | The wearer has Disadvantage on Dexterity (Stealth) checks. |
-| Steel Shield | +2 AC(when equiped) | | | | | | | | |
+| Item | Type | Damage | Properties | Text |
+|-----|-----|-----|-----|-----|
+| Warhammer | weapon, martial weapon, melee weapon | 4d6 Bludgeoning | Versatile 1h/2h Vicious | |
+| Chain Mail | heavy armor | AC 16 | The wearer has Disadvantage on Dexterity (Stealth) checks. |
+| Steel Shield | +1 AC(when equiped) | | |
 
 
-
-(Warhammer: Mastery: Push. If you hit a creature with this weapon, you can push the creature up to 10 feet straight away from yourself if it is Large or smaller.)
-(Chainmail: If the wearer has a Strength score lower than 13, their speed is reduced by 10 feet.)
 
 ## Notes
 
