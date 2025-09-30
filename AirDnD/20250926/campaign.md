@@ -6,8 +6,12 @@
 
   - Skull or Skull and Keyhole
   - Rational and Unemotional
-  - Anathema: Cruelty and Emotions
-    -PCs
+  - Anathema: Cruelty and EmotionsAnathema: Cruelty and EmotionsAnathema: Cruelty and EmotionsAnathema: Cruelty and Emotions
+
+---
+
+
+
 - Tyrah (Lysa)
 - Araleth (Dinesh)
 - Valyria (Alisa)
@@ -15,9 +19,18 @@
 - Ignatious (Peter)
 - Veltharion (Matt)
 
-  * Asset identification and collection
-  * Political Landscape
-  * Find Ludwig
+  ---
+
+* Asset identification and collection
+
++ rumors of impossible beasts!!!!
++ whispers are there old or new gods showing up!!!??!?!?!
++ find the source and erradicate(surgical)
+
+* Asset identification and collection
+* Political Landscape
+* Find Ludwig
+
   * Anomolies
 
     + rumors of impossible beasts!!!!
@@ -27,14 +40,7 @@
   + rumors of impossible beasts!!!!
   + whispers are there old or new gods showing up!!!??!?!?!
   + find the source and erradicate(surgical)
-  + rumors of impossible beasts!!!!
-  + whispers are there old or new gods showing up!!!??!?!?!
-  + find the source and erradicate(surgical)
-  + rumors of impossible beasts!!!!
-  + whispers are there old or new gods showing up!!!??!?!?!
-  + find the source and erradicate(surgical)
 
-  * Asset identification and collection
 - We are summoned by the Emporer of Adyran
 - Map of the Living Lands
 
@@ -83,4 +89,15 @@
   - Dead all around. They appear to have attacked each other.
   - Within the jail of the keep we find a woman(human, but red skinned)
   - Schism on whether we let her out or steal her small boat
-  -
+  - We expidite and cross with the small boat captain
+  - Paratis turns out to be quite the city
+  - We go to the ambassador's office
+  - He is not there, but we communicate with others.
+  - We have an envelope for the emporer.
+  - We head to the Old Godless Ruins
+    - Approach a shack with a terrified Aedyren soldier in it.
+    - Asks if we are the envoy
+    - Was tasked to find some relics
+      - Everyone went mad...spoke in riddles...went mad...but then a lgiht came about and was transported back outside.
+    - Ceric requests that the soldier guide us along the way.
+    -
